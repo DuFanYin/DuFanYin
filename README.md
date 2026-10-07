@@ -16,7 +16,7 @@ I’m drawn to performance-critical systems and the engineering challenges behin
 
 ### ⚡ Systems & low-latency (C++ / event-driven)
 - [**OTrader**](https://github.com/DuFanYin/OTrader): Production-grade event-driven options trading and research platform with portfolio engine, strategy framework, and backtesting infrastructure.
-- [**Limit Order Book**](https://github.com/DuFanYin/Limit-Order-Book): Low-latency limit order book implementation. Matches ~3 million orders/second.
+- [**Limit Order Book**](https://github.com/DuFanYin/Limit-Order-Book): Low-latency limit order book implementation. Matches ~2.5 million orders/second.
 - [**Kaleidoscope (LLVM Toy Language)**](https://github.com/DuFanYin/Kaleidoscope): Toy programming language with a custom LLVM-based compiler frontend.
 - [**(SMU QF101) Option Pricing Methods (C++)**](https://github.com/DuFanYin/Option-Pricing-Methods): C++ implementations of option pricing methods with performance tuning.
 
